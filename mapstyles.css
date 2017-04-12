@@ -1,0 +1,165 @@
+
+
+#parentbox {
+	height: 700px
+}
+header{
+	border:5px solid steelblue;
+	border-radius: 20px 20px 120px 20px;
+	margin:10px;
+}
+h1{
+	font: bold 25px Arial, sans-serif;
+	color:#4682B4;
+	padding-left: 10px;
+	
+}
+h2{
+	font: bold 20px Arial, sans-serif;
+	color: #4682B4;
+	padding-left:10px;
+}
+#tree-container {
+	justify-content: center;
+  	height: auto;
+  	width: 53%;
+	float: left;
+	border:5px solid steelblue;
+	border-radius: 20px;
+	margin:10px;
+	overflow:hidden;
+	
+}
+#lawdetail {
+	float:left;
+	height: 27%;
+	width: 33%;
+	background: #EEE;
+	overflow: auto;
+	border:5px solid steelblue;
+	border-radius: 20px;
+	margin:8px;
+	font:11px;
+	padding: 10px 10px 10px 10px;
+	z-index: 1;
+}
+.detail{
+	font: 11px;
+	padding:10px;
+	border:1px dotted steelblue;
+}
+.detailOther{
+	font:11px;
+	padding:10px;
+	border-left:1px dotted steelblue;
+	border-right:1px dotted steelblue;
+}
+#listresults {
+	float: left;
+	height: 67%;
+	width: 33%;
+	background: #EEE;
+	overflow:auto;   
+	border:5px solid steelblue;
+	border-radius: 20px;
+	margin:8px;
+	z-index: 1;
+}
+
+#lawTitle {
+	float:left;
+	width:300px;
+	
+}
+
+#cite {
+	float: left;
+	width: 200px;
+	height: 20px;
+}
+
+#statreg {
+	float: left;
+	width: 100px;
+	height: 20px;
+}
+
+#location {
+	float:left;
+	width:150px;
+	
+}
+#otherRelv {
+	float: left;
+	width 150px;
+	
+}
+
+.highlight {
+	font-size:11px;
+	color: steelblue;
+}
+
+h1 {
+	justify-content: center;
+	font: verdana;
+}
+.node {
+    cursor: pointer;
+}
+
+.overlay{
+      background-color:#EEE;
+}
+   
+.node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+   
+.node text {
+    font-size:10px; 
+    font-family:sans-serif;
+    
+}
+.node highlight {
+	font-size: 11px;
+	font-family: sans-serif;
+}
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+}
+
+.templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+}
+
+.ghostCircle.show{
+      display:block;
+}
+
+.ghostCircle, .activeDrag .ghostCircle{
+       display: none;
+}
+#table{
+		font-weight: bold;
+		font-size: 11px;
+}
+
+.result {
+       font-weight: normal;
+       font-size: 11px;
+       border: 3px solid steelblue;
+       padding: 10px;
+
+    }
+div {
+       padding: 4px 4px 4px 15px;
+       
+
+    }

@@ -1,0 +1,1986 @@
+{
+	"name": "Electronic Health Information Laws",
+	"children": [{
+		"name": "Use Category",
+		"children": [
+	
+				
+			{"name": "ACO", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 6},
+				{"name": "HIE/HIO,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 3}]},
+			{"name": "Admin. Investigations", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 5},
+				{"name": "EHR: Treatment,", 
+				"size": 1}]},
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 10},
+				{"name": "EHR: Treatment,", 
+				"size": 1},
+				{"name": "HIE/HIO,", 
+				"size": 1}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 51}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 9},
+				{"name": "HC Quality Monitoring,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "Birth-Related Neurological Injury Comp.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 16},
+				{"name": "Vital Stats,", 
+				"size": 2}]},
+			{"name": "Child Blood Lead Data", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 3},
+				{"name": "IIS,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 1}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 15},
+				{"name": "EHR: Treatment,", 
+				"size": 2},
+				{"name": "Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, Correctional Patient Records,", 
+				"size": 3},
+				{"name": "Vital Stats, Ed. Patient Records, Workers’ Comp.,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 7}]},
+			{"name": "Chronic Disease IS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 2}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 10},
+				{"name": "ACO, Payer,", 
+				"size": 1},
+				{"name": "EHR: Treatment,", 
+				"size": 10},
+				{"name": "PDMP,", 
+				"size": 1}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 22},
+				{"name": "Gov't Records,", 
+				"size": 1},
+				{"name": "Research and Public Use Data,", 
+				"size": 1}]},
+			{"name": "Dental Identification Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 2}]},
+			{"name": "Disease Investigation", "children": [
+				{"name": "Disease Report.,", 
+				"size": 1}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 10},
+				{"name": "Disease Investigation, Synd. Surv., Lab Report., HC Quality Monitoring, IIS, HIE/HIO,", 
+				"size": 1},
+				{"name": "Disease Investigation,", 
+				"size": 1},
+				{"name": "EHR: Treatment,", 
+				"size": 2},
+				{"name": "Lab Report., HIE/HIO,", 
+				"size": 1},
+				{"name": "Lab Report.,", 
+				"size": 2},
+				{"name": "Synd. Surv., Lab Report., IIS, HIE/HIO, EHR: Treatment, Payer,", 
+				"size": 1}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 22},
+				{"name": "EHR: Treatment,", 
+				"size": 1},
+				{"name": "IIS, EHR: Treatment,", 
+				"size": 1},
+				{"name": "IIS,", 
+				"size": 11},
+				{"name": "Payer,", 
+				"size": 1}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 550},
+				{"name": "ACO, Payer,", 
+				"size": 1},
+				{"name": "Controlled Substances,", 
+				"size": 40},
+				{"name": "Correctional Patient Records,", 
+				"size": 3},
+				{"name": "Disease Report., HIE/HIO,", 
+				"size": 2},
+				{"name": "Disease Report., Lab Report.,", 
+				"size": 1},
+				{"name": "Disease Report.,", 
+				"size": 1},
+				{"name": "EMS Data Reporting,", 
+				"size": 2},
+				{"name": "HC Quality Monitoring,", 
+				"size": 4},
+				{"name": "Healthcare Services Report.,", 
+				"size": 2},
+				{"name": "HIE/HIO, Payer,", 
+				"size": 12},
+				{"name": "HIE/HIO,", 
+				"size": 6},
+				{"name": "HIT Oversight,", 
+				"size": 1},
+				{"name": "IIS,", 
+				"size": 1},
+				{"name": "M/B Health Report., PDMP,", 
+				"size": 1},
+				{"name": "M/B Health Report.,", 
+				"size": 1},
+				{"name": "Meth. Precursor Tracking,", 
+				"size": 1},
+				{"name": "Payer, Controlled Substances,", 
+				"size": 2},
+				{"name": "Payer,", 
+				"size": 19},
+				{"name": "PDMP, Controlled Substances,", 
+				"size": 3},
+				{"name": "PDMP,", 
+				"size": 6},
+				{"name": "Research and Public Use Data,", 
+				"size": 2},
+				{"name": "Vital Stats,", 
+				"size": 3}]},
+			{"name": "EMS Data Report.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1},
+				{"name": "EHR: Treatment,", 
+				"size": 5},
+				{"name": "Trauma IS,", 
+				"size": 1}]},
+			{"name": "Family Planning Report.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1}]},
+			{"name": "Gov't Held Breath Testing Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 22},
+				{"name": "EHR: Treatment,", 
+				"size": 2},
+				{"name": "Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, EHR: Treatment,", 
+				"size": 3},
+				{"name": "Vital Stats, Payer,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "HC Services Reporting", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 3},
+				{"name": "HC Quality Monitoring,", 
+				"size": 1},
+				{"name": "HIE/HIO,", 
+				"size": 1}]},
+			{"name": "Health and Hazardous Sub. Registry", "children": [
+				{"name": "Cancer IS, Vital Stats, Birth Defects IS,", 
+				"size": 1}]},
+			{"name": "Health Info. in Driver’s License Records", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 3}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 19},
+				{"name": "Admin. Investigations,", 
+				"size": 1},
+				{"name": "Controlled Substances,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 4},
+				{"name": "Research and Public Use Data, Payer,", 
+				"size": 2}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 196},
+				{"name": "Child Support/Welfare, and Foster Care, Ed. Patient Records,", 
+				"size": 1},
+				{"name": "Child Support/Welfare, and Foster Care,", 
+				"size": 1},
+				{"name": "Disease Investigation, Disease Report., Workers’ Comp.,", 
+				"size": 1},
+				{"name": "Disease Report., EHR: Treatment,", 
+				"size": 1},
+				{"name": "Disease Report., IIS, Vital Stats,", 
+				"size": 1},
+				{"name": "Disease Report., Synd. Surv., Cancer IS, IIS, Vital Stats, Anatomical Gift, M/B Health Report., EHR: Treatment, Payer, PDMP, Adv. Directive IS,", 
+				"size": 1},
+				{"name": "Disease Report., Synd. Surv., Cancer IS, IIS, Vital Stats, EHR: Treatment, Payer, PDMP,", 
+				"size": 1},
+				{"name": "Disease Report., Synd. Surv., HC Quality Monitoring, IIS, EHR: Treatment, Payer,", 
+				"size": 1},
+				{"name": "Disease Report., Synd. Surv., IIS, Payer,", 
+				"size": 3},
+				{"name": "Disease Report., Synd. Surv., IIS,", 
+				"size": 2},
+				{"name": "Ed. Patient Records, Payer, HIT Oversight,", 
+				"size": 1},
+				{"name": "Ed. Patient Records, Payer,", 
+				"size": 1},
+				{"name": "Ed. Patient Records,", 
+				"size": 1},
+				{"name": "EHR: Treatment, Payer,", 
+				"size": 32},
+				{"name": "EHR: Treatment, Research and Public Use Data, Payer,", 
+				"size": 1},
+				{"name": "EHR: Treatment,", 
+				"size": 6},
+				{"name": "HC Quality Monitoring, EHR: Treatment, Payer,", 
+				"size": 4},
+				{"name": "HC Quality Monitoring, IIS, Vital Stats, HIT Oversight,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring, Payer,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring, Research and Public Use Data,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring,", 
+				"size": 9},
+				{"name": "HIT Oversight,", 
+				"size": 2},
+				{"name": "IIS, Child Support/Welfare, and Foster Care,", 
+				"size": 1},
+				{"name": "IIS, EHR: Treatment, Payer,", 
+				"size": 1},
+				{"name": "IIS,", 
+				"size": 1},
+				{"name": "Lab Report., NB Blood Screening, EHR: Treatment, Payer,", 
+				"size": 1},
+				{"name": "M/B Health Report.,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 20},
+				{"name": "Synd. Surv., HC Quality Monitoring, Payer,", 
+				"size": 2},
+				{"name": "Synd. Surv., HC Quality Monitoring, Research and Public Use Data,", 
+				"size": 1},
+				{"name": "Synd. Surv., Payer,", 
+				"size": 1}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 83},
+				{"name": "ACO, EHR: Treatment,", 
+				"size": 1},
+				{"name": "ACO,", 
+				"size": 1},
+				{"name": "EHR: Treatment, Payer,", 
+				"size": 12},
+				{"name": "EHR: Treatment,", 
+				"size": 9},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", 
+				"size": 4},
+				{"name": "HC Quality Monitoring, Payer,", 
+				"size": 2},
+				{"name": "HC Quality Monitoring,", 
+				"size": 1},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", 
+				"size": 10},
+				{"name": "HIE/HIO, EHR: Treatment,", 
+				"size": 10},
+				{"name": "HIE/HIO, Payer,", 
+				"size": 2},
+				{"name": "HIE/HIO,", 
+				"size": 15},
+				{"name": "Payer,", 
+				"size": 10},
+				{"name": "Vital Stats, EHR: Treatment, Correctional Patient Records,", 
+				"size": 1}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 20},
+				{"name": "Child Blood Lead Data,", 
+				"size": 1},
+				{"name": "Ed. Patient Records,", 
+				"size": 1},
+				{"name": "EHR: Treatment, Ed. Patient Records,", 
+				"size": 1},
+				{"name": "EHR: Treatment,", 
+				"size": 1},
+				{"name": "HIE/HIO,", 
+				"size": 3},
+				{"name": "HIT Oversight,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, Ed. Patient Records, Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, EHR: Treatment, Ed. Patient Records,", 
+				"size": 1},
+				{"name": "Vital Stats, EHR: Treatment, Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, HIE/HIO, Payer,", 
+				"size": 1},
+				{"name": "Vital Stats, HIE/HIO,", 
+				"size": 2},
+				{"name": "Vital Stats, Payer,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "Infectious Disease Epidemiology Data System", "children": [
+				{"name": "Disease Report., Lab Report., HC Quality Monitoring, Ed. Patient Records, Correctional Patient Records,", 
+				"size": 1}]},
+			{"name": "Laboratory Report.", "children": [
+				{"name": "Disease Report.,", 
+				"size": 3}]},
+			{"name": "M/B Health Report.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 15}]},
+			{"name": "Medical Malpractice Database", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1},
+				{"name": "HC Quality Monitoring,", 
+				"size": 1}]},
+			{"name": "Medical Marijuana", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 3}]},
+			{"name": "Mental Health Records Used for Gun Purchases", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 8},
+				{"name": "Controlled Substances,", 
+				"size": 2}]},
+			{"name": "NB Blood Screening", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 6},
+				{"name": "IIS,", 
+				"size": 1}]},
+			{"name": "NB Hearing Screening", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1},
+				{"name": "IIS,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 25},
+				{"name": "EHR: Treatment, Payer,", 
+				"size": 2},
+				{"name": "EHR: Treatment,", 
+				"size": 2},
+				{"name": "HIE/HIO,", 
+				"size": 2},
+				{"name": "Lab Report.,", 
+				"size": 1}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 223},
+				{"name": "ACO, EHR: Treatment,", 
+				"size": 1},
+				{"name": "ACO, HIE/HIO,", 
+				"size": 2},
+				{"name": "ACO,", 
+				"size": 5},
+				{"name": "Child Support/Welfare, and Foster Care,", 
+				"size": 1},
+				{"name": "Chronic Disease IS,", 
+				"size": 1},
+				{"name": "Controlled Substances,", 
+				"size": 1},
+				{"name": "Ed. Patient Records,", 
+				"size": 4},
+				{"name": "EHR: Treatment, Ed. Patient Records,", 
+				"size": 1},
+				{"name": "EHR: Treatment, HIT Oversight,", 
+				"size": 8},
+				{"name": "EHR: Treatment,", 
+				"size": 226},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring, HIE/HIO,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring, IIS, Vital Stats, Birth Defects IS, NB Blood Screening, HIE/HIO,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring,", 
+				"size": 6},
+				{"name": "Healthcare Services Report.,", 
+				"size": 1},
+				{"name": "HIE/HIO, EHR: Treatment, Child Support/Welfare, and Foster Care,", 
+				"size": 1},
+				{"name": "HIE/HIO, EHR: Treatment,", 
+				"size": 12},
+				{"name": "HIE/HIO,", 
+				"size": 16},
+				{"name": "HIT Oversight,", 
+				"size": 3},
+				{"name": "PDMP,", 
+				"size": 1},
+				{"name": "Public Assistance,", 
+				"size": 2},
+				{"name": "Research and Public Use Data,", 
+				"size": 2},
+				{"name": "Vital Stats, Research and Public Use Data,", 
+				"size": 1},
+				{"name": "Vital Stats,", 
+				"size": 2},
+				{"name": "Workers’ Comp.,", 
+				"size": 4}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 19},
+				{"name": "Controlled Substances,", 
+				"size": 13},
+				{"name": "EHR: Treatment, Controlled Substances,", 
+				"size": 1},
+				{"name": "HIE/HIO, Controlled Substances,", 
+				"size": 1},
+				{"name": "HIE/HIO, Payer, Controlled Substances,", 
+				"size": 3},
+				{"name": "HIE/HIO,", 
+				"size": 1}]},
+			{"name": "Property Tax", "children": [
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "Public Assistance", "children": [
+				{"name": "Child Support/Welfare, and Foster Care,", 
+				"size": 2},
+				{"name": "HIE/HIO, EHR: Treatment,", 
+				"size": 1},
+				{"name": "HIE/HIO, Payer,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 1}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 9},
+				{"name": "EHR: Treatment,", 
+				"size": 1},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment, Payer,", 
+				"size": 1},
+				{"name": "Payer,", 
+				"size": 1}]},
+			{"name": "Synd. Surv.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 3}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 8},
+				{"name": "Vital Stats, Payer,", 
+				"size": 1}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 148},
+				{"name": "HC Quality Monitoring, Payer,", 
+				"size": 1},
+				{"name": "Voter Registration,", 
+				"size": 1}]},
+			{"name": "Voter Registration", "children": [
+				{"name": "Vital Stats,", 
+				"size": 1}]},
+			{"name": "Vulnerable Populations Registry", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 1}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", 
+				"size": 56},
+				{"name": "Payer,", 
+				"size": 1}]}
+
+	]
+},
+{"name": "Jurisdiction",
+	"children": [
+		{"name": "Alabama", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "Disease Investigation,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "10"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "IIS", "children": [
+				{"name": "Vital Stats, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "Alaska", "children": [
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "M/B Health Report.,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "M/B Health Report.", "children": [
+				{"name": "(No Cross-References)", "size": "15"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "10"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Arizona", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "18"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "PDMP,", "size": "1"}]},
+			{"name": "Gov't Held Breath Testing Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Health Info. in Driver’s License Records", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "9"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Arkansas", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "14"},
+				{"name": "Controlled Substances,", "size": "3"},
+				{"name": "Payer,", "size": "3"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "Ed. Patient Records, Payer, HIT Oversight,", "size": "1"},
+				{"name": "Ed. Patient Records, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "2"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "Controlled Substances,", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "3"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "2"}]},
+			{"name": "Property Tax", "children": [
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]}]},
+		{"name": "California", "children": [
+			{"name": "Admin. Investigations", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "2"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "19"},
+				{"name": "HC Quality Monitoring,", "size": "1"},
+				{"name": "Healthcare Services Report.,", "size": "2"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "17"},
+				{"name": "Child Support/Welfare, and Foster Care, Ed. Patient Records,", "size": "1"},
+				{"name": "Disease Report., EHR: Treatment,", "size": "1"},
+				{"name": "Disease Report., Synd. Surv., HC Quality Monitoring, IIS, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "ACO,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "12"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "Workers’ Comp.,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]}]},
+		{"name": "Colorado", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats,", "size": "3"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "PDMP,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "EHR: Treatment, Ed. Patient Records,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "11"},
+				{"name": "EHR: Treatment,", "size": "3"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Connecticut", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment, Payer,", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "Vital Stats, EHR: Treatment, Correctional Patient Records,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Infectious Disease Epidemiology Data System", "children": [
+				{"name": "Disease Report., Lab Report., HC Quality Monitoring, Ed. Patient Records, Correctional Patient Records,", "size": "1"}]},
+			{"name": "Medical Malpractice Database", "children": [
+				{"name": "HC Quality Monitoring,", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment, Payer,", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "11"},
+				{"name": "Healthcare Services Report.,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "9"}]}]},
+		{"name": "Delaware", "children": [
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "HIE/HIO,", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "District of Columbia", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats, Correctional Patient Records,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "Synd. Surv., HC Quality Monitoring, Research and Public Use Data,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "6"},
+				{"name": "HC Quality Monitoring,", "size": "2"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "Public Assistance,", "size": "1"},
+				{"name": "Workers’ Comp.,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]}]},
+		{"name": "Florida", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "12"},
+				{"name": "Correctional Patient Records,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "2"}]},
+			{"name": "IIS", "children": [
+				{"name": "Ed. Patient Records,", "size": "1"},
+				{"name": "Vital Stats, EHR: Treatment, Ed. Patient Records,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "Child Support/Welfare, and Foster Care,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "3"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Public Assistance", "children": [
+				{"name": "HIE/HIO, Payer,", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]}]},
+		{"name": "Georgia", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "14"},
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "EMS Data Reporting,", "size": "1"},
+				{"name": "Payer, Controlled Substances,", "size": "1"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "Guam", "children": [
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Hawaii", "children": [
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Medical Marijuana", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Idaho", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "IIS,", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "14"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Illinois", "children": [
+			{"name": "ACO", "children": [
+				{"name": "Payer,", "size": "3"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "HC Quality Monitoring,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Child Blood Lead Data", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Chronic Disease IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "PDMP,", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Investigation", "children": [
+				{"name": "Disease Report.,", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "Lab Report.,", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "16"},
+				{"name": "Disease Report., Lab Report.,", "size": "1"},
+				{"name": "Disease Report.,", "size": "1"}]},
+			{"name": "Family Planning Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Health and Hazardous Sub. Registry", "children": [
+				{"name": "Cancer IS, Vital Stats, Birth Defects IS,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "15"},
+				{"name": "EHR: Treatment, Payer,", "size": "5"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "Lab Report.,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "13"},
+				{"name": "HC Quality Monitoring, IIS, Vital Stats, Birth Defects IS, NB Blood Screening, HIE/HIO,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "Indiana", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "16"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Voter Registration", "children": [
+				{"name": "Vital Stats,", "size": "1"}]}]},
+		{"name": "Iowa", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "Gov't Records,", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "Meth. Precursor Tracking,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "EHR: Treatment, Research and Public Use Data, Payer,", "size": "1"},
+				{"name": "HC Quality Monitoring, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "EHR: Treatment,", "size": "5"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Public Assistance", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Kansas", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "10"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "Kentucky", "children": [
+			{"name": "Admin. Investigations", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "Payer,", "size": "1"},
+				{"name": "PDMP, Controlled Substances,", "size": "1"},
+				{"name": "PDMP,", "size": "2"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "Disease Report., Synd. Surv., Cancer IS, IIS, Vital Stats, Anatomical Gift, M/B Health Report., EHR: Treatment, Payer, PDMP, Adv. Directive IS,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "EHR: Treatment,", "size": "2"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Louisiana", "children": [
+			{"name": "Admin. Investigations", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "IIS,", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "13"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "2"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "EHR: Treatment,", "size": "8"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "2"}]},
+			{"name": "PDMP", "children": [
+				{"name": "HIE/HIO, Payer, Controlled Substances,", "size": "3"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "4"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]}]},
+		{"name": "Maine", "children": [
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "HIE/HIO, Payer,", "size": "1"},
+				{"name": "Research and Public Use Data,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "Payer,", "size": "3"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "Payer,", "size": "1"},
+				{"name": "Vital Stats, Ed. Patient Records, Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "ACO, EHR: Treatment,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "7"},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Maryland", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "20"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "HIE/HIO, Payer,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment, Payer,", "size": "2"},
+				{"name": "HC Quality Monitoring, Research and Public Use Data,", "size": "1"},
+				{"name": "HC Quality Monitoring,", "size": "8"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "NB Blood Screening", "children": [
+				{"name": "(No Cross-References)", "size": "4"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "Ed. Patient Records,", "size": "1"},
+				{"name": "EHR: Treatment, HIT Oversight,", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "8"},
+				{"name": "HC Quality Monitoring,", "size": "2"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "Vital Stats, Payer,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]}]},
+		{"name": "Massachusetts", "children": [
+			{"name": "ACO", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "11"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "HC Services Reporting", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "EHR: Treatment, Payer,", "size": "4"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "EHR: Treatment,", "size": "3"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "Payer,", "size": "1"}]}]},
+		{"name": "Michigan", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "Controlled Substances,", "size": "2"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HC Quality Monitoring, IIS, Vital Stats, HIT Oversight,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "EHR: Treatment,", "size": "3"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIT Oversight,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Minnesota", "children": [
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "13"},
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "HIE/HIO, Payer,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "11"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Public Assistance", "children": [
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "7"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Mississippi", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment, Ed. Patient Records,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Missouri", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "NB Hearing Screening", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "EHR: Treatment,", "size": "6"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Synd. Surv.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Montana", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "Research and Public Use Data,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "14"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Nebraska", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "EMS Data Reporting,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "NB Blood Screening", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "11"},
+				{"name": "EHR: Treatment,", "size": "2"}]},
+			{"name": "PDMP", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Synd. Surv.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]}]},
+		{"name": "Nevada", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "13"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "13"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "New Hampshire", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Dental Identification Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "Correctional Patient Records,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "Payer, Controlled Substances,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "EMS Data Report.", "children": [
+				{"name": "EHR: Treatment,", "size": "4"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "Admin. Investigations,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "9"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "NB Blood Screening", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "Research and Public Use Data,", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "4"}]}]},
+		{"name": "New Jersey", "children": [
+			{"name": "ACO", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Child Blood Lead Data", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats, Correctional Patient Records,", "size": "1"},
+				{"name": "Vital Stats, Ed. Patient Records, Workers’ Comp.,", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "18"},
+				{"name": "Payer,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "Disease Report., IIS, Vital Stats,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "HIE/HIO, Payer,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "2"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "Vital Stats, Payer,", "size": "1"}]},
+			{"name": "Laboratory Report.", "children": [
+				{"name": "Disease Report.,", "size": "2"}]},
+			{"name": "Medical Marijuana", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "NB Hearing Screening", "children": [
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "ACO,", "size": "1"},
+				{"name": "Chronic Disease IS,", "size": "1"},
+				{"name": "HC Quality Monitoring,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "12"},
+				{"name": "HC Quality Monitoring, Payer,", "size": "1"}]}]},
+		{"name": "New Mexico", "children": [
+			{"name": "Admin. Investigations", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "14"},
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "HIE/HIO, Payer,", "size": "2"},
+				{"name": "HIT Oversight,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "Payer,", "size": "1"},
+				{"name": "Vital Stats, Payer,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "HC Services Reporting", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "HC Quality Monitoring, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "EHR: Treatment,", "size": "4"},
+				{"name": "Workers’ Comp.,", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "New York", "children": [
+			{"name": "ACO", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "EHR: Treatment,", "size": "3"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Controlled Substances,", "size": "3"},
+				{"name": "HIE/HIO, Payer,", "size": "1"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "Vital Stats, EHR: Treatment,", "size": "3"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "HC Quality Monitoring, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "M/B Health Report.,", "size": "1"},
+				{"name": "Synd. Surv., HC Quality Monitoring, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "IIS", "children": [
+				{"name": "Child Blood Lead Data,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment, HIT Oversight,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "2"},
+				{"name": "HIE/HIO,", "size": "2"}]},
+			{"name": "Vulnerable Populations Registry", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]}]},
+		{"name": "North Carolina", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "Vital Stats,", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "13"}]},
+			{"name": "EMS Data Report.", "children": [
+				{"name": "Trauma IS,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "8"},
+				{"name": "Synd. Surv., Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Synd. Surv.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "North Dakota", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "Ed. Patient Records,", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "9"}]}]},
+		{"name": "Ohio", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Correctional Patient Records,", "size": "1"},
+				{"name": "HIE/HIO, Payer,", "size": "1"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "HC Services Reporting", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "5"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "15"},
+				{"name": "EHR: Treatment,", "size": "9"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "Payer,", "size": "1"}]}]},
+		{"name": "Oklahoma", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "20"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIT Oversight,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"}]},
+			{"name": "Medical Malpractice Database", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "EHR: Treatment,", "size": "4"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Oregon", "children": [
+			{"name": "ACO", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "EHR: Treatment,", "size": "2"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "IIS,", "size": "4"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "25"},
+				{"name": "ACO, Payer,", "size": "1"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "IIS,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "11"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring, HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Laboratory Report.", "children": [
+				{"name": "Disease Report.,", "size": "1"}]},
+			{"name": "Mental Health Records Used for Gun Purchases", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "ACO, HIE/HIO,", "size": "2"},
+				{"name": "ACO,", "size": "3"},
+				{"name": "Ed. Patient Records,", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "10"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "8"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]}]},
+		{"name": "Pennsylvania", "children": [
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment, Payer,", "size": "2"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "Voter Registration,", "size": "1"}]}]},
+		{"name": "Puerto Rico", "children": [
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Rhode Island", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "Synd. Surv., Lab Report., IIS, HIE/HIO, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "HIE/HIO, Payer,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "24"},
+				{"name": "Disease Investigation, Disease Report., Workers’ Comp.,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "PDMP,", "size": "1"},
+				{"name": "Public Assistance,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "EHR: Treatment, Controlled Substances,", "size": "1"}]},
+			{"name": "Public Assistance", "children": [
+				{"name": "Child Support/Welfare, and Foster Care,", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "South Carolina", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "EMS Data Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "South Dakota", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "6"}]}]},
+		{"name": "Tennessee", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "33"},
+				{"name": "Controlled Substances,", "size": "3"},
+				{"name": "M/B Health Report., PDMP,", "size": "1"},
+				{"name": "Payer,", "size": "1"},
+				{"name": "PDMP,", "size": "1"},
+				{"name": "Research and Public Use Data,", "size": "1"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "3"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]}]},
+		{"name": "Texas", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth Defects IS", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Cancer IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Child Blood Lead Data", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "ACO, Payer,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "2"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "14"},
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "HIE/HIO, Payer,", "size": "1"},
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Research and Public Use Data, Payer,", "size": "2"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "Child Support/Welfare, and Foster Care,", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "5"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring, EHR: Treatment, Payer,", "size": "2"},
+				{"name": "HC Quality Monitoring,", "size": "1"},
+				{"name": "HIT Oversight,", "size": "1"},
+				{"name": "IIS, Child Support/Welfare, and Foster Care,", "size": "1"},
+				{"name": "IIS, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "Lab Report., NB Blood Screening, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "Payer,", "size": "3"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "HIT Oversight,", "size": "1"},
+				{"name": "Vital Stats, HIE/HIO, Payer,", "size": "1"},
+				{"name": "Vital Stats, HIE/HIO,", "size": "2"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "7"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "25"},
+				{"name": "EHR: Treatment, HIT Oversight,", "size": "1"},
+				{"name": "EHR: Treatment,", "size": "17"},
+				{"name": "HC Quality Monitoring, HIE/HIO,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Child Support/Welfare, and Foster Care,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "3"},
+				{"name": "Vital Stats, Research and Public Use Data,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "HIE/HIO, Controlled Substances,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "8"}]}]},
+		{"name": "Utah", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Support/Welfare, and Foster Care", "children": [
+				{"name": "Vital Stats, Correctional Patient Records,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "10"},
+				{"name": "PDMP, Controlled Substances,", "size": "1"}]},
+			{"name": "HC Services Reporting", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "HC Quality Monitoring,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring,", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "5"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "7"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "2"}]},
+			{"name": "Trauma IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Vermont", "children": [
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Chronic Disease IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "IIS, EHR: Treatment,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "7"},
+				{"name": "Payer,", "size": "1"},
+				{"name": "PDMP, Controlled Substances,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "11"},
+				{"name": "ACO, EHR: Treatment,", "size": "1"},
+				{"name": "ACO,", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "4"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "HC Quality Monitoring, Payer,", "size": "2"},
+				{"name": "HIE/HIO, EHR: Treatment,", "size": "2"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "Payer,", "size": "5"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Medical Marijuana", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "6"},
+				{"name": "EHR: Treatment,", "size": "3"},
+				{"name": "HIT Oversight,", "size": "2"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Virgin Islands", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "HIE/HIO, Payer,", "size": "3"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "Workers’ Comp.,", "size": "1"}]}]},
+		{"name": "Virginia", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Birth-Related Neurological Injury Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Child Blood Lead Data", "children": [
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "Correctional Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "9"},
+				{"name": "Controlled Substances,", "size": "2"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "Payer,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "Synd. Surv., HC Quality Monitoring, Payer,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "4"},
+				{"name": "HIE/HIO, Payer,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "NB Blood Screening", "children": [
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "NB Hearing Screening", "children": [
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Research and Public Use Data", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "7"}]}]},
+		{"name": "Washington", "children": [
+			{"name": "ACO", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Adv. Directive IS", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Dental Identification Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "26"},
+				{"name": "Controlled Substances,", "size": "2"},
+				{"name": "HC Quality Monitoring,", "size": "3"},
+				{"name": "Payer,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "IIS,", "size": "1"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"},
+				{"name": "HIE/HIO,", "size": "1"}]},
+			{"name": "Meth. Precursor Tracking", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "3"}]},
+			{"name": "PDMP", "children": [
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "5"}]}]},
+		{"name": "West Virginia", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"},
+				{"name": "Disease Investigation, Synd. Surv., Lab Report., HC Quality Monitoring, IIS, HIE/HIO,", "size": "1"},
+				{"name": "Lab Report., HIE/HIO,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "Controlled Substances,", "size": "1"},
+				{"name": "Disease Report., HIE/HIO,", "size": "2"},
+				{"name": "HIE/HIO,", "size": "1"},
+				{"name": "PDMP,", "size": "1"},
+				{"name": "Vital Stats,", "size": "1"}]},
+			{"name": "EMS Data Report.", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "10"},
+				{"name": "Disease Report., Synd. Surv., Cancer IS, IIS, Vital Stats, EHR: Treatment, Payer, PDMP,", "size": "1"},
+				{"name": "Disease Report., Synd. Surv., IIS, Payer,", "size": "3"},
+				{"name": "Disease Report., Synd. Surv., IIS,", "size": "2"},
+				{"name": "EHR: Treatment,", "size": "1"},
+				{"name": "Payer,", "size": "2"}]},
+			{"name": "HIT Oversight", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "HIE/HIO, EHR: Treatment, Payer,", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "4"}]},
+			{"name": "PDMP", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Workers’ Comp.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}]},
+		{"name": "Wisconsin", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Disease Report.", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Ed. Patient Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "2"},
+				{"name": "Controlled Substances,", "size": "1"}]},
+			{"name": "Healthcare Quality Monitoring", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "HIE/HIO", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Payer", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "EHR: Treatment,", "size": "8"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]}]},
+		{"name": "Wyoming", "children": [
+			{"name": "Anatomical Gift", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "Controlled Substances", "children": [
+				{"name": "EHR: Treatment,", "size": "1"}]},
+			{"name": "EHR: Treatment", "children": [
+				{"name": "(No Cross-References)", "size": "3"}]},
+			{"name": "Gov't Records", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]},
+			{"name": "IIS", "children": [
+				{"name": "(No Cross-References)", "size": "3"},
+				{"name": "HIE/HIO,", "size": "2"}]},
+			{"name": "Occupational Health", "children": [
+				{"name": "(No Cross-References)", "size": "2"}]},
+			{"name": "Payer", "children": [
+				{"name": "EHR: Treatment,", "size": "14"}]},
+			{"name": "Vital Stats", "children": [
+				{"name": "(No Cross-References)", "size": "1"}]}
+		]}
+	]}
+]
+	
+}
+ 

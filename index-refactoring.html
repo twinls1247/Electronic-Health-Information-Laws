@@ -1,0 +1,82 @@
+﻿
+<!DOCTYPE html>
+<meta charset="utf-8" >
+
+<head>
+	<title>EHI Legal Landscape</title>
+    <script src="../jQuery.3.1.1/Content/Scripts/jquery-3.1.1.min.js"></script>
+    <link rel="stylesheet" href="mapstyles.css">
+    <!--<script src="../d3.v3.min.js"></script>-->
+    <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
+   	
+</head>
+<body>
+	<header>
+		<h1>Legal Map Prototype</h1>
+		<h2>Featuring the Results of a 50 State Assessment of State Laws Addressing Electronic Health Information (INSERT HYPERLINK)</h2>	
+	</header>
+	
+    	
+	<section id="parentbox">
+    	<div id="tree-container" style="width: 53%; overflow: hidden;"></div>
+        <script src="../dndTree.js"></script>
+        
+    	<div id="lawdetail">
+            <script type="text/javascript">
+
+    var lawdetail = document.getElementById("lawdetail");
+    var tree = document.getElementById("tree-container");
+    //var Details = document.getElementById("Details");
+     if (lawdetail) {
+         lawdetail.addEventListener("click", function () {
+             var Request = new XMLHttpRequest();
+             //Request.open('GET', 'https://learnwebcode.github.io/json-example/animals-1.json');
+            Request.open('GET', 'EHIflare.json');
+            Request.onload = function () {
+                var ourdata = JSON.parse(Request.responseText);
+               //  var ourdata = Request.responseText;  //this is not enough to parse JSON object/arrays - only text strings pre-temp
+               // console.log(ourdata[2]);
+                // console.log(JSON.stringify(ourdata[0]));
+                renderHTML(ourdata);
+            };
+             Request.send();
+        });
+     };
+
+     //temp - status
+    function renderHTML(data) {
+        var htmlString = " ";
+      // for (i = 0; i < data.length; i++)
+     //  {
+            if (data) {
+                htmlString += "<p>" + data.name + "</p> <br />" + data.children[0].name + ":"; 
+                for (i = 0; i < data.children[0].children.length; ++i) {
+                 htmlString += "<p>" + data.children[0].children[i].name + "</p>";
+                }
+               // htmlString += "<p>" + data[i].name + "is a" + data[i].species + ".</p>";
+            }
+            else
+                htmlString ="No Data passed!!"
+       // }
+        // tContainer.insertAdjacentHTML('beforeend', htmlString);
+        // tree.innerHTML = tree.innerHTML + htmlString;
+            lawdetail.innerHTML = lawdetail.innerHTML + htmlString;
+     }
+            </script>
+    		<div id="Details">Law Detail
+    	  	<div class="detail">Click a law from the list below to reveal the law's details!</div>
+    	  </div>	
+    	</div>
+    	<div id="listresults">
+    	  <div id="table">Relevant Law
+    	  	<div class="result">Click a node to reveal relevant laws!</div>
+    	  </div>
+    	</div>
+    	
+    </section>  
+   
+      <footer>
+    	
+    </footer>
+</body>
+</html>
